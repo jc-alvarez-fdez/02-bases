@@ -29,7 +29,7 @@ export class DbzService {
     }
   ];
 
-  onNewCharacter(character: Character): void {
+  addCharacter(character: Character): void {
    // console.log("Main page");
     // console.log(character);
 
